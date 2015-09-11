@@ -1,5 +1,5 @@
 {
-  "name": "livedb",
+  "name": "k-livedb",
   "version": "0.5.13",
   "description": "Realtime database wrapper",
   "main": "lib/index.js",
